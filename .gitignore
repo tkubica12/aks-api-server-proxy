@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+cert.pfx
+kube.config
+crash.log
